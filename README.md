@@ -48,7 +48,7 @@ GENGAR_AI/
 - [x] GPT-4 (API) integration for natural language chat
 - [x] Speech input & output (via pyttsx3 / speech_recognition)
 - [x] Custom CLI commands (nmap, VPN, firewall logs, etc.)
-- [x] Discord remote bot commands (`!scan`, `!firewall-logs`, etc.)
+- [x] Discord remote bot commands
 - [x] Command logging and persistent voice/text interface
 
 ### 🔜 Upcoming Additions
@@ -79,7 +79,7 @@ GENGAR_AI/
 
     This system is deployed in a secure home lab.
 
-    API keys are stored locally in a separate, secured file (config.py) and excluded from version control.
+    API keys are stored locally in a separate, secured file and excluded from version control.
 
     Designed for offline fallback capability in the future (LLMs + speech models).
 
