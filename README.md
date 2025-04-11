@@ -87,7 +87,7 @@ GENGAR_AI/
 
 👓 Vision: The Future of G.E.N.G.A.R.
 
-G.E.N.G.A.R. is being built with long-term goals:
+G.E.N.G.A.R. is being built with long-term goals in mind:
 
     ⚙️ Fully modular AI that can be upgraded and extended over years
 
