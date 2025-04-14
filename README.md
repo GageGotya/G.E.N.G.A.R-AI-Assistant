@@ -14,7 +14,7 @@ G.E.N.G.A.R. is more than a chatbot — it's a full-stack AI assistant capable o
 - 🎤 Voice-based interaction with TTS + speech recognition  
 - 🛡️ Network scanning, VPN automation, firewall log inspection  
 - 🕵️ Real-time OSINT data pulls & reconnaissance tools  
-- 🌐 Remote command execution via Discord (and soon Telegram)  
+- 🌐 Remote command execution via Discord (and soon other platforms)  
 - 👓 AI vision & smart glasses integration (future)  
 
 This is a personal project built for **privacy, control, and cybersecurity experimentation**.
