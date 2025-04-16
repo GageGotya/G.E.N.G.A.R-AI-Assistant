@@ -79,8 +79,6 @@ GENGAR_AI/
 
     This system is deployed in a secure home lab.
 
-    API keys are stored locally in a separate, secured file and excluded from version control.
-
     Designed for offline fallback capability in the future (LLMs + speech models).
 
     Logs all interactions for personal audit + replay purposes.
