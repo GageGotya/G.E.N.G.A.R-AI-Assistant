@@ -17,7 +17,7 @@ G.E.N.G.A.R. is more than a chatbot — it's a full-stack AI assistant capable o
 - 🌐 Remote command execution via Discord (and soon other platforms)  
 - 👓 AI vision & smart glasses integration (future)  
 
-This is a personal project built for **privacy, control, and cybersecurity experimentation**
+This is a personal project built for privacy, control, and cybersecurity experimentation.
 
 ---
 
