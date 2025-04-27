@@ -1,4 +1,4 @@
-# 🤖 G.E.N.G.A.R. – Gage’s Enhanced Next-Gen AI Responder
+# 🤖 G.E.N.G.A.R. – Gage’s Enhanced Next-Gen AI Responde
 
 Welcome to the official home of **G.E.N.G.A.R.**, a multi-modular, 24/7 personal AI assistant engineered by Gage Ayala. This project is designed for cybersecurity automation, intelligent home lab control, real-time threat detection, OSINT reconnaissance, and future smart-glasses integration.
 
