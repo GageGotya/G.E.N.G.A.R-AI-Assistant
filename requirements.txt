@@ -1,0 +1,22 @@
+# G.E.N.G.A.R AI Assistant Dependencies
+# Core dependencies
+asyncio
+logging
+json
+datetime
+typing
+
+# Optional dependencies (install as needed)
+# pyttsx3>=2.90  # Text-to-speech (optional)
+# openai>=1.0.0  # OpenAI API integration (optional)
+# speech_recognition>=3.8.1  # Speech recognition (optional)
+
+# Network and system tools
+# nmap-python>=0.7.1  # Network scanning (optional)
+# requests>=2.25.1  # HTTP requests
+# dnspython>=2.1.0  # DNS operations
+
+# Development dependencies
+# pytest>=6.0.0  # Testing
+# black>=21.0.0  # Code formatting
+# flake8>=3.8.0  # Linting 
